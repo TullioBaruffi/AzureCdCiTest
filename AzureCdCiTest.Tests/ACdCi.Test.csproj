@@ -63,9 +63,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AzureCdCiTest\AzureCdCiTest.csproj">
+    <ProjectReference Include="..\AzureCdCiTest\ACdCi.csproj">
       <Project>{8F0DDCDB-8D7D-44D0-933E-84B012FAD885}</Project>
-      <Name>AzureCdCiTest</Name>
+      <Name>ACdCi</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
