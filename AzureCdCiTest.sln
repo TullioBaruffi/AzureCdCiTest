@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACdCi", "AzureCdCiTest\ACdCi.csproj", "{8F0DDCDB-8D7D-44D0-933E-84B012FAD885}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACdCi", "ACdCi\ACdCi.csproj", "{8F0DDCDB-8D7D-44D0-933E-84B012FAD885}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACdCi.Test", "AzureCdCiTest.Tests\ACdCi.Test.csproj", "{2AF0E406-71A4-49E3-B411-3AE3157F7BE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACdCi.Test", "ACdCi.Test\ACdCi.Test.csproj", "{2AF0E406-71A4-49E3-B411-3AE3157F7BE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
